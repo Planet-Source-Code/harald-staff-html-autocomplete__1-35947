@@ -1,0 +1,85 @@
+<!-- comment text -->n
+<a href="mailto:@">
+<a href="mailto:@?subject=***">
+<a href="url" target="_new">
+<a href="url">
+<acronym title="full name">
+<address>
+<b>
+<BASEFONT SIZE=3>n
+<big>
+<blockquote cite="url">
+<body background="a.gif" bgcolor=#ffffff text=#000000 link=#0000ff vlink=#dd00ff alink=#ff0000>
+<body>
+<br clear=all>n
+<br clear=left>n
+<br clear=right>n
+<center>
+<code>
+<dd>
+<dir compact>
+<dir>
+<div align=left>
+<dl compact>
+<dl>
+<dt>
+<em>
+<font size=+1, color=#0000ff>
+<h1 align=center>
+<h1>
+<h2 align=center>
+<h2>
+<h3 align=center>
+<h3>
+<h4 align=center>
+<h4>
+<h5 align=center>
+<h5>
+<h6 align=center>
+<h6>
+<head>
+<hr align=center>n
+<hr color=#0000ff align=center width=90% size=4 >n
+<html>
+<i>
+<img src="url" alt="***" align=right border=0 hspace=2 vspace=2>n
+<img src="url">n
+<kbd>
+<left>
+<li>
+<link rel="stylesheet" type="text/css" href="a.css">n
+<menu compact>
+<menu>
+<meta http-equiv="content-language" content="no-bok">n
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">n
+<meta name="generator" content="***">n
+<ol compact>
+<ol>
+<p align=left>n
+<pre width=40>
+<q cite="url">
+<right>
+<samp>
+<small>
+<span>
+<strong>
+<sub>
+<sup>
+<table align=left border=1 cellspacing=1 cellpadding=1 width=90% bgcolor=#ffffff>
+<table>
+<tbody>
+<td align=left valign=top width=33% bgcolor=#ffffff>
+<td>
+<tfoot>
+<th align=center valign=top bgcolor=#ffff99>
+<thead>
+<title>
+<tr align=left>
+<tr>
+<tt>
+<u>
+<ul compact>
+<ul>
+<var>
+
+
